@@ -1,5 +1,6 @@
--- docker compose exec -it db bash
+-- docker compose exec -it nome_do_seu_banco(padrão db) bash
 -- psql -U admin
+-- Apos rodar os comandos acima basta rodar todos os comandos abaixo
 
 CREATE DATABASE security;
 
